@@ -1,10 +1,10 @@
-### Hi there 👋
+**### Hi there 👋**
 
-👋 Hi, I’m @sanjaya (CipherNyx)
-👀 I’m interested in coding
-🌱 I’m currently BEng Software Engineering Undergraduate
-💞️ I am interested on collaborated opportunity on aspects such as web application development, Android projects, Java programming, Arduino etc. I am also keen on taking part in projects centered on the areas of AI (I use Python) and cybersecurity to grow my expertise in them.
-📫 How to reach me [(sasbsuraweera@gmail.com)]
+- 👋 Hi, I’m @sanjaya (<a href="https://github.com/CipherNyx/">CipherNyx</a>)
+- 👀 I’m interested in coding
+- 🌱 I’m currently BEng Software Engineering Undergraduate
+- 💞️ I am interested on collaborated opportunity on aspects such as web application development, Android projects, Java programming, Arduino etc. I am also keen on taking part in projects centered on the areas of AI -(I use Python) and cybersecurity to grow my expertise in them.
+- 📫 How to reach me [(sasbsuraweera@gmail.com)]
 
 <!--
 **CipherNyx/CipherNyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
