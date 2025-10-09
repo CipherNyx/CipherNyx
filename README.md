@@ -1,22 +1,23 @@
-**### Hi there 👋**
+### Hi there 👋
 
-- 👋 Hi, I’m @sanjaya (<a href="https://github.com/CipherNyx/">CipherNyx</a>)
-- 👀 I’m interested in coding
-- 🌱 I’m currently BEng Software Engineering Undergraduate
-- 💞️ I am interested on collaborated opportunity on aspects such as web application development, Android projects, Java programming, Arduino etc. I am also keen on taking part in projects centered on the areas of AI -(I use Python) and cybersecurity to grow my expertise in them.
-- 📫 How to reach me [(sasbsuraweera@gmail.com)]
+I’m **Sanjaya** ([CipherNyx](https://github.com/CipherNyx)) — a **BEng Software Engineering Graduate** passionate about building secure, scalable, and user-friendly software solutions.  
 
-<!--
-**CipherNyx/CipherNyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **What I Do**  
+- Full-stack web application development (Laravel, Java EE, Tailwind, Bootstrap)  
+- Android projects and Java programming  
+- Arduino and embedded systems tinkering  
+- Exploring AI (Python) and cybersecurity to expand my expertise  
 
-Here are some ideas to get you started:
+🤝 **Collaboration Interests**  
+I’m open to collaborating on:  
+- Web and mobile application development  
+- AI/ML projects (Python-based)  
+- Cybersecurity-focused applications  
+- Open-source contributions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to Reach Me**  
+- Email: [sasbsuraweera@gmail.com](mailto:sasbsuraweera@gmail.com)  
+- GitHub: [CipherNyx](https://github.com/CipherNyx)  
+
+⚡ **Fun Fact**  
+I thrive on blending **creativity with technical precision**—whether it’s designing intuitive dashboards, optimizing workflows, or experimenting with futuristic branding ideas.  
