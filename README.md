@@ -70,9 +70,19 @@ I’m open to collaborating on:
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
+![CipherNyx Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherNyx&layout=compact&theme=tokyonight)
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherNyx&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
+</p> -->
+
+---
+
+## 🌐 Universal Coding Experiments
+[![Org Profile](https://img.shields.io/badge/GitHub-Universal--Coding--Experiments-blue?logo=github)](https://github.com/Universal-Coding-Experiments)
+
+A collaborative space where I publish coding experiments, tutorials, and creative projects.  
+This organization hosts repositories tied to my video content — ranging from **full‑stack prototypes** and **UI/UX demos** to **automation scripts** and **workflow optimizations**.  
+It’s designed as a hub for learning, experimenting, and sharing innovative approaches to modern development.
 
 ---
 
