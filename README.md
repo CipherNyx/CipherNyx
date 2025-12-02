@@ -71,16 +71,20 @@ I’m open to collaborating on:
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CipherNyx&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherNyx&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: **sasbsuraweera@gmail.com**  
-- 🐙 GitHub: [CipherNyx](https://github.com/CipherNyx)  
-- 💼 LinkedIn: [sanjaya-suraweera](https://www.linkedin.com/in/sanjaya-suraweera/)
+- 👨‍💻 **Author:** Sanjaya Suraweera (CipherNyx)  
+- 🐙 **GitHub:** [CipherNyx](https://github.com/CipherNyx)  
+- 📧 **Email:** sasbsuraweera@gmail.com  
+- 💼 **LinkedIn:** [sanjaya-suraweera](https://www.linkedin.com/in/sanjaya-suraweera/)  
+- 📺 **YouTube:** [SanjayaSuraweera](https://www.youtube.com/@SanjayaSuraweera)  
+- 📷 **Instagram:** [sanjaya_suraweera](https://www.instagram.com/sanjaya_suraweera/)  
+- 🎵 **TikTok:** [nits_mind](https://www.tiktok.com/@nits_mind)  
+- 📘 **Facebook:** [sanjaya.bandara.suraweera](https://www.facebook.com/sanjaya.bandara.suraweera/)
 
 ---
 
