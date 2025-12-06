@@ -70,10 +70,14 @@ I’m open to collaborating on:
 ---
 
 ## 📊 GitHub Stats
-![CipherNyx Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherNyx&layout=compact&theme=tokyonight)
+<!-- ![CipherNyx Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherNyx&layout=compact&theme=tokyonight) -->
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherNyx&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p> -->
+
+![CipherNyx Top Languages](https://github-readme-stats-cipher-nyx.vercel.app/api/top-langs/?username=CipherNyx&layout=compact&theme=tokyonight)
+
+<!-- ![UCE Top Languages](https://github-readme-stats-cipher-nyx.vercel.app/api/top-langs/?username=Universal-Coding-Experiments&layout=compact&theme=tokyonight) -->
 
 ---
 
